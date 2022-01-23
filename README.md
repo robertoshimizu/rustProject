@@ -1,5 +1,17 @@
 # Rust Programming Language
 
+## Why Rust?
+
+Rust is a statically-typed programming language designed for performance and safety, especially safe concurrency and memory management.
+
+https://codilime.com/blog/why-is-rust-programming-language-so-popular/
+
+https://about.gitlab.com/blog/2020/07/21/rust-programming-language/
+
+https://www.nature.com/articles/d41586-020-03382-2
+
+https://www.youtube.com/watch?v=A3AdN7U24iU
+
 ## Installation
 
 If you’re using Linux or macOS, open a terminal and enter the following command:
